@@ -1,0 +1,2 @@
+global-git-ignore
+=================
